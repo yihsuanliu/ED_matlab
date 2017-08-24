@@ -1,9 +1,9 @@
 %%?@Heisenberg model exact diagonalization
-
+% periodic BC used
 clc
 clear
 
-N = 10;
+N = 4;
 Nst = 2^N;
 vec_st = 0:Nst-1;
 vec_st_tool = zeros(Nst,1);
