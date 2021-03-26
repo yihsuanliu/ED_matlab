@@ -1,2 +1,5 @@
 # ED_matlab
-code translated from Fortran from [Prof. Anders W. Sandvik 's website](http://physics.bu.edu/~py502/lectures6/examples/index.html)
+ 
+This code simulated the S=1/2 Heisenberg chainin  quantum many-body systems.
+
+The code is translated from Fortran [Prof. Anders W. Sandvik 's website](http://physics.bu.edu/~py502/lectures6/examples/index.html)
